@@ -1,0 +1,775 @@
+PC Number,Application,Time In,Time Out,Duration (s)
+PC-01,activity_monitor.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-15 17:48:52,2026-11-15 17:49:00,8
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-15 17:49:00,2026-11-15 17:49:04,4
+PC-01,activity_monitor.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-15 17:49:04,2026-11-15 17:49:50,46
+PC-01,Unknown App,2026-11-15 17:49:50,2026-11-16 10:32:30,60160
+PC-01,activity_monitor.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 10:32:30,2026-11-16 10:32:35,4
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 10:32:35,2026-11-16 10:32:37,2
+PC-01,System Documentation.pdf - WPS Office,2026-11-16 10:32:37,2026-11-16 10:32:39,2
+PC-01,Unknown App,2026-11-16 10:32:39,2026-11-16 10:32:41,2
+PC-01,Home - Classroom and 2 more pages - Personal - Microsoft​ Edge,2026-11-16 10:32:41,2026-11-16 10:32:47,6
+PC-01,Containers - Docker Desktop,2026-11-16 10:32:47,2026-11-16 10:32:49,2
+PC-01,Welcome to Windows Subsystem for Linux,2026-11-16 10:32:49,2026-11-16 10:32:53,4
+PC-01,Facebook - Personal,2026-11-16 10:32:53,2026-11-16 10:32:57,4
+PC-01,Program Manager,2026-11-16 10:32:57,2026-11-16 10:32:59,2
+PC-01,Search,2026-11-16 10:32:59,2026-11-16 10:33:09,10
+PC-01,Google Chrome,2026-11-16 10:33:09,2026-11-16 10:33:15,6
+PC-01,Quick settings,2026-11-16 10:33:15,2026-11-16 10:34:45,90
+PC-01,Google Chrome,2026-11-16 10:34:45,2026-11-16 10:36:44,119
+PC-01,New Tab - Google Chrome,2026-11-16 10:36:44,2026-11-16 10:37:32,48
+PC-01,Copy of Quantitative Research Final Presentation.docx - Google Drive - Google Chrome,2026-11-16 10:37:32,2026-11-16 10:37:38,6
+PC-01,New Tab - Google Chrome,2026-11-16 10:37:38,2026-11-16 10:37:40,2
+PC-01,Unknown App,2026-11-16 10:37:40,2026-11-16 10:37:42,2
+PC-01,Program Manager,2026-11-16 10:37:42,2026-11-16 10:37:44,2
+PC-01,New Tab - Google Chrome,2026-11-16 10:37:44,2026-11-16 10:38:16,32
+PC-01,drive - Google Search - Google Chrome,2026-11-16 10:38:16,2026-11-16 10:38:18,2
+PC-01,Google Drive - Google Chrome,2026-11-16 10:38:18,2026-11-16 10:38:24,6
+PC-01,Storage - Google Drive - Google Chrome,2026-11-16 10:38:24,2026-11-16 10:39:52,88
+PC-01,Home - Google Drive - Google Chrome,2026-11-16 10:39:52,2026-11-16 10:42:14,142
+PC-01,Search,2026-11-16 10:42:14,2026-11-16 10:42:18,4
+PC-01,Unknown App,2026-11-16 10:42:18,2026-11-16 10:42:32,14
+PC-01,Cisco Packet Tracer,2026-11-16 10:42:32,2026-11-16 10:42:36,4
+PC-01,Cisco Packet Tracer Login,2026-11-16 10:42:36,2026-11-16 10:42:44,8
+PC-01,Untitled - Personal - Microsoft​ Edge,2026-11-16 10:42:44,2026-11-16 10:42:48,4
+PC-01,Login | Networking Academy with Cisco - Personal - Microsoft​ Edge,2026-11-16 10:42:48,2026-11-16 10:42:54,6
+PC-01,Cisco Packet Tracer - Personal - Microsoft​ Edge,2026-11-16 10:42:54,2026-11-16 10:43:04,10
+PC-01,localhost - Personal - Microsoft​ Edge,2026-11-16 10:43:04,2026-11-16 10:43:14,10
+PC-01,Quick settings,2026-11-16 10:43:14,2026-11-16 10:44:20,66
+PC-01,localhost - Personal - Microsoft​ Edge,2026-11-16 10:44:20,2026-11-16 10:44:44,24
+PC-01,Cisco Packet Tracer,2026-11-16 10:44:44,2026-11-16 10:45:06,22
+PC-01,Server0,2026-11-16 10:45:06,2026-11-16 10:45:10,4
+PC-01,Cisco Packet Tracer,2026-11-16 10:45:10,2026-11-16 10:45:20,10
+PC-01,Server0,2026-11-16 10:45:20,2026-11-16 10:45:22,2
+PC-01,Cisco Packet Tracer,2026-11-16 10:45:22,2026-11-16 10:46:02,40
+PC-01,Laptop1,2026-11-16 10:46:02,2026-11-16 10:46:06,4
+PC-01,Cisco Packet Tracer,2026-11-16 10:46:06,2026-11-16 10:47:44,98
+PC-01,Server0,2026-11-16 10:47:44,2026-11-16 10:48:04,20
+PC-01,Cisco Packet Tracer,2026-11-16 10:48:04,2026-11-16 10:48:08,4
+PC-01,PC0,2026-11-16 10:48:08,2026-11-16 10:48:34,26
+PC-01,Cisco Packet Tracer,2026-11-16 10:48:34,2026-11-16 10:48:36,2
+PC-01,PC1,2026-11-16 10:48:36,2026-11-16 10:48:58,22
+PC-01,Exit -- Cisco Packet Tracer,2026-11-16 10:48:58,2026-11-16 10:49:02,4
+PC-01,Cisco Packet Tracer,2026-11-16 10:49:02,2026-11-16 10:49:06,4
+PC-01,PC0,2026-11-16 10:49:06,2026-11-16 10:49:16,10
+PC-01,Cisco Packet Tracer,2026-11-16 10:49:16,2026-11-16 10:49:18,2
+PC-01,PC1,2026-11-16 10:49:18,2026-11-16 10:49:34,16
+PC-01,Cisco Packet Tracer,2026-11-16 10:49:34,2026-11-16 10:49:38,4
+PC-01,PC2,2026-11-16 10:49:38,2026-11-16 10:49:54,16
+PC-01,Exit -- Cisco Packet Tracer,2026-11-16 10:49:54,2026-11-16 10:49:58,4
+PC-01,Cisco Packet Tracer,2026-11-16 10:49:58,2026-11-16 10:50:00,2
+PC-01,Laptop0,2026-11-16 10:50:00,2026-11-16 10:50:18,18
+PC-01,Cisco Packet Tracer,2026-11-16 10:50:18,2026-11-16 10:50:20,2
+PC-01,Laptop1,2026-11-16 10:50:20,2026-11-16 10:50:36,16
+PC-01,Cisco Packet Tracer,2026-11-16 10:50:36,2026-11-16 10:50:38,2
+PC-01,Switch0,2026-11-16 10:50:38,2026-11-16 10:50:46,8
+PC-01,Cisco Packet Tracer,2026-11-16 10:50:46,2026-11-16 10:50:50,4
+PC-01,Server0,2026-11-16 10:50:50,2026-11-16 10:51:14,24
+PC-01,Cisco Packet Tracer,2026-11-16 10:51:14,2026-11-16 10:51:16,2
+PC-01,PC0,2026-11-16 10:51:16,2026-11-16 10:51:34,18
+PC-01,Cisco Packet Tracer,2026-11-16 10:51:34,2026-11-16 10:51:36,2
+PC-01,PC1,2026-11-16 10:51:36,2026-11-16 10:51:58,22
+PC-01,Cisco Packet Tracer,2026-11-16 10:51:58,2026-11-16 10:52:02,4
+PC-01,PC2,2026-11-16 10:52:02,2026-11-16 10:52:22,20
+PC-01,Cisco Packet Tracer,2026-11-16 10:52:22,2026-11-16 10:52:24,2
+PC-01,Laptop0,2026-11-16 10:52:24,2026-11-16 10:52:45,20
+PC-01,Cisco Packet Tracer,2026-11-16 10:52:45,2026-11-16 10:52:47,2
+PC-01,Laptop1,2026-11-16 10:52:47,2026-11-16 10:53:09,22
+PC-01,Cisco Packet Tracer,2026-11-16 10:53:09,2026-11-16 10:53:41,32
+PC-01,Server0,2026-11-16 10:53:41,2026-11-16 10:54:23,42
+PC-01,Cisco Packet Tracer,2026-11-16 10:54:23,2026-11-16 10:54:25,2
+PC-01,Switch0,2026-11-16 10:54:25,2026-11-16 10:56:53,148
+PC-01,Cisco Packet Tracer,2026-11-16 10:56:53,2026-11-16 10:56:57,4
+PC-01,activity_monitor.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 10:56:57,2026-11-16 10:57:09,12
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 10:57:09,2026-11-16 10:57:19,10
+PC-01,gemini.google.com - Google Chrome,2026-11-16 10:57:19,2026-11-16 10:57:21,2
+PC-01,Quick settings,2026-11-16 10:57:21,2026-11-16 10:57:55,34
+PC-01,gemini.google.com - Google Chrome,2026-11-16 10:57:55,2026-11-16 10:57:59,4
+PC-01,Google Gemini - Google Chrome,2026-11-16 10:57:59,2026-11-16 10:58:01,2
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 10:58:01,2026-11-16 10:58:57,56
+PC-01,activity_monitor.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 10:58:57,2026-11-16 10:59:09,12
+PC-01,Snipping Tool Overlay,2026-11-16 10:59:09,2026-11-16 10:59:13,4
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 10:59:13,2026-11-16 10:59:37,24
+PC-01,Unknown App,2026-11-16 10:59:37,2026-11-16 10:59:39,2
+PC-01,Quick settings,2026-11-16 10:59:39,2026-11-16 10:59:53,14
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 10:59:53,2026-11-16 11:01:19,86
+PC-01,Task Switching,2026-11-16 11:01:19,2026-11-16 11:01:21,2
+PC-01,activity_monitor.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:01:21,2026-11-16 11:01:27,6
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 11:01:27,2026-11-16 11:01:31,4
+PC-01,activity_monitor.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:01:31,2026-11-16 11:01:51,20
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 11:01:51,2026-11-16 11:02:55,64
+PC-01,Task Switching,2026-11-16 11:02:55,2026-11-16 11:02:57,2
+PC-01,activity_monitor.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:02:57,2026-11-16 11:03:03,6
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 11:03:03,2026-11-16 11:03:07,4
+PC-01,activity_monitor.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:03:07,2026-11-16 11:03:09,2
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 11:03:09,2026-11-16 11:03:41,32
+PC-01,Task Switching,2026-11-16 11:03:41,2026-11-16 11:03:43,2
+PC-01,activity_monitor.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:03:43,2026-11-16 11:04:03,20
+PC-01,session_test_logs.csv - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:04:03,2026-11-16 11:04:05,2
+PC-01,activity_monitor.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:04:05,2026-11-16 11:04:11,6
+PC-01,main.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:04:11,2026-11-16 11:04:13,2
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 11:04:13,2026-11-16 11:04:19,6
+PC-01,main.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:04:19,2026-11-16 11:04:23,4
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 11:04:23,2026-11-16 11:04:29,6
+PC-01,main.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:04:29,2026-11-16 11:04:43,14
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 11:04:43,2026-11-16 11:05:51,68
+PC-01,main.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:05:51,2026-11-16 11:05:57,6
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 11:05:57,2026-11-16 11:06:09,12
+PC-01,main.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:06:09,2026-11-16 11:06:13,4
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 11:06:13,2026-11-16 11:06:19,6
+PC-01,main.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:06:19,2026-11-16 11:06:23,4
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 11:06:23,2026-11-16 11:06:33,10
+PC-01,main.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:06:33,2026-11-16 11:06:35,2
+PC-01,● main.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:06:35,2026-11-16 11:06:39,4
+PC-01,main.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:06:39,2026-11-16 11:06:45,6
+PC-01,Settings - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:06:45,2026-11-16 11:06:53,8
+PC-01,Snipping Tool Overlay,2026-11-16 11:06:53,2026-11-16 11:06:57,4
+PC-01,Task Switching,2026-11-16 11:06:57,2026-11-16 11:06:59,2
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 11:06:59,2026-11-16 11:08:27,88
+PC-01,Task Switching,2026-11-16 11:08:27,2026-11-16 11:08:29,2
+PC-01,Settings - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:08:29,2026-11-16 11:08:37,8
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 11:08:37,2026-11-16 11:08:49,12
+PC-01,Settings - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:08:49,2026-11-16 11:08:51,2
+PC-01,main.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:08:51,2026-11-16 11:08:55,4
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 11:08:55,2026-11-16 11:11:35,160
+PC-01,Fixing Docker Command Error - Google Gemini - Google Chrome,2026-11-16 11:11:35,2026-11-16 11:11:39,4
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 11:11:39,2026-11-16 11:11:53,14
+PC-01,main.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:11:53,2026-11-16 11:11:59,6
+PC-01,Dockerfile - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:11:59,2026-11-16 11:12:21,22
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 11:12:21,2026-11-16 11:12:35,14
+PC-01,Dockerfile - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:12:35,2026-11-16 11:12:45,10
+PC-01,docker-compose.yml - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:12:45,2026-11-16 11:13:11,26
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 11:13:11,2026-11-16 11:13:39,28
+PC-01,docker-compose.yml - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:13:39,2026-11-16 11:14:01,22
+PC-01,Unknown App,2026-11-16 11:14:01,2026-11-16 11:14:03,2
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 11:14:03,2026-11-16 11:15:11,68
+PC-01,docker-compose.yml - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:15:11,2026-11-16 11:16:43,92
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 11:16:43,2026-11-16 11:17:53,70
+PC-01,docker-compose.yml - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:17:53,2026-11-16 11:18:17,24
+PC-01,Unknown App,2026-11-16 11:18:17,2026-11-16 11:18:19,2
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 11:18:19,2026-11-16 11:19:21,62
+PC-01,docker-compose.yml - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:19:21,2026-11-16 11:19:25,4
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 11:19:25,2026-11-16 11:20:29,64
+PC-01,docker-compose.yml - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:20:29,2026-11-16 11:24:19,230
+PC-01,activity_monitor.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:24:19,2026-11-16 11:24:31,12
+PC-01,docker-compose.yml - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:24:31,2026-11-16 11:28:43,252
+PC-01,lan_connectivity_test.pay - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:28:43,2026-11-16 11:28:57,14
+PC-01,Home - Google Drive - Google Chrome,2026-11-16 11:28:57,2026-11-16 11:29:01,4
+PC-01,New Tab - Google Chrome,2026-11-16 11:29:01,2026-11-16 11:29:09,8
+PC-01,email - Google Search - Google Chrome,2026-11-16 11:29:09,2026-11-16 11:29:35,26
+PC-01,Inbox (230) - fransirishm@gmail.com - Gmail - Google Chrome,2026-11-16 11:29:35,2026-11-16 11:30:10,34
+PC-01,Inbox (231) - fransirishm@gmail.com - Gmail - Google Chrome,2026-11-16 11:30:10,2026-11-16 11:30:30,20
+PC-01,(no subject) - fransirishm@gmail.com - Gmail - Google Chrome,2026-11-16 11:30:30,2026-11-16 11:32:00,90
+PC-01,lan_connectivity_test.pay - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:32:00,2026-11-16 11:32:04,4
+PC-01,● lan_connectivity_test.pay - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:32:04,2026-11-16 11:34:36,152
+PC-01,(no subject) - fransirishm@gmail.com - Gmail - Google Chrome,2026-11-16 11:34:36,2026-11-16 11:34:42,6
+PC-01,● lan_connectivity_test.pay - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:34:42,2026-11-16 11:38:10,208
+PC-01,.env - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:38:10,2026-11-16 11:38:12,2
+PC-01,● lan_connectivity_test.pay - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:38:12,2026-11-16 11:40:24,132
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 11:40:24,2026-11-16 11:40:28,4
+PC-01,New Tab - Google Chrome,2026-11-16 11:40:28,2026-11-16 11:40:40,12
+PC-01,Search,2026-11-16 11:40:40,2026-11-16 11:40:44,4
+PC-01,Google Chrome,2026-11-16 11:40:44,2026-11-16 11:40:46,2
+PC-01,New Tab - Google Chrome,2026-11-16 11:40:46,2026-11-16 11:40:54,8
+PC-01,email - Google Search - Google Chrome,2026-11-16 11:40:54,2026-11-16 11:41:04,10
+PC-01,Gmail - Google Chrome,2026-11-16 11:41:04,2026-11-16 11:41:06,2
+PC-01,Inbox (232) - fransirishm@gmail.com - Gmail - Google Chrome,2026-11-16 11:41:06,2026-11-16 11:41:10,4
+PC-01,(no subject) - fransirishm@gmail.com - Gmail - Google Chrome,2026-11-16 11:41:10,2026-11-16 11:41:46,36
+PC-01,● lan_connectivity_test.pay - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:41:46,2026-11-16 11:44:02,136
+PC-01,(no subject) - fransirishm@gmail.com - Gmail - Google Chrome,2026-11-16 11:44:02,2026-11-16 11:44:06,4
+PC-01,New Tab - Google Chrome,2026-11-16 11:44:06,2026-11-16 11:44:08,2
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 11:44:08,2026-11-16 11:45:12,64
+PC-01,Task Switching,2026-11-16 11:45:12,2026-11-16 11:45:14,2
+PC-01,● lan_connectivity_test.pay - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:45:14,2026-11-16 11:45:22,8
+PC-01,init.sql - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:45:22,2026-11-16 11:45:26,4
+PC-01,docker-compose.yml - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:45:26,2026-11-16 11:45:28,2
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 11:45:28,2026-11-16 11:45:30,2
+PC-01,docker-compose.yml - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:45:30,2026-11-16 11:45:32,2
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 11:45:32,2026-11-16 11:45:38,6
+PC-01,Task Switching,2026-11-16 11:45:38,2026-11-16 11:45:40,2
+PC-01,docker-compose.yml - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:45:40,2026-11-16 11:45:42,2
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 11:45:42,2026-11-16 11:45:50,8
+PC-01,docker-compose.yml - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:45:50,2026-11-16 11:46:02,12
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 11:46:02,2026-11-16 11:46:44,42
+PC-01,docker-compose.yml - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:46:44,2026-11-16 11:46:50,6
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 11:46:50,2026-11-16 11:46:58,8
+PC-01,docker-compose.yml - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:46:58,2026-11-16 11:47:00,2
+PC-01,Task Switching,2026-11-16 11:47:00,2026-11-16 11:47:02,2
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 11:47:02,2026-11-16 11:47:04,2
+PC-01,docker-compose.yml - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:47:04,2026-11-16 11:47:06,2
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 11:47:06,2026-11-16 11:47:08,2
+PC-01,docker-compose.yml - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:47:08,2026-11-16 11:47:10,2
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 11:47:10,2026-11-16 11:47:12,2
+PC-01,Task Switching,2026-11-16 11:47:12,2026-11-16 11:47:14,2
+PC-01,docker-compose.yml - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:47:14,2026-11-16 11:47:16,2
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 11:47:16,2026-11-16 11:48:18,62
+PC-01,docker-compose.yml - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:48:18,2026-11-16 11:48:20,2
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 11:48:20,2026-11-16 11:48:22,2
+PC-01,docker-compose.yml - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:48:22,2026-11-16 11:48:24,2
+PC-01,main.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:48:24,2026-11-16 11:48:30,6
+PC-01,● main.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:48:30,2026-11-16 11:48:34,4
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 11:48:34,2026-11-16 11:48:38,4
+PC-01,● main.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:48:38,2026-11-16 11:48:40,2
+PC-01,Unknown App,2026-11-16 11:48:40,2026-11-16 11:48:42,2
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 11:48:42,2026-11-16 11:49:48,66
+PC-01,Task Switching,2026-11-16 11:49:48,2026-11-16 11:49:50,2
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 11:49:50,2026-11-16 11:50:22,32
+PC-01,● main.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:50:22,2026-11-16 11:50:26,4
+PC-01,activity_monitor.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:50:26,2026-11-16 11:50:34,8
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 11:50:34,2026-11-16 11:50:52,18
+PC-01,Quick settings,2026-11-16 11:50:52,2026-11-16 11:50:54,2
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 11:50:54,2026-11-16 11:51:22,28
+PC-01,activity_monitor.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:51:22,2026-11-16 11:51:24,2
+PC-01,● activity_monitor.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:51:24,2026-11-16 11:51:26,2
+PC-01,activity_monitor.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:51:26,2026-11-16 11:51:28,2
+PC-01,● lan_connectivity_test.pay - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:51:28,2026-11-16 11:51:32,4
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 11:51:32,2026-11-16 11:51:54,22
+PC-01,● lan_connectivity_test.pay - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:51:54,2026-11-16 11:52:22,28
+PC-01,Snipping Tool Overlay,2026-11-16 11:52:22,2026-11-16 11:52:28,6
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 11:52:28,2026-11-16 11:52:58,30
+PC-01,Task Switching,2026-11-16 11:52:58,2026-11-16 11:53:00,2
+PC-01,● lan_connectivity_test.pay - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:53:00,2026-11-16 11:53:06,6
+PC-01,activity_monitor.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:53:09,2026-11-16 11:53:13,4
+PC-01,activity_monitor.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:53:06,2026-11-16 11:53:14,8
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 11:53:14,2026-11-16 11:53:16,2
+PC-01,Task Switching,2026-11-16 11:53:13,2026-11-16 11:53:20,7
+PC-01,activity_monitor.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:53:16,2026-11-16 11:53:28,12
+PC-01,activity_monitor.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:53:20,2026-11-16 11:53:29,9
+PC-01,Snipping Tool Overlay,2026-11-16 11:53:28,2026-11-16 11:53:32,4
+PC-01,Snipping Tool Overlay,2026-11-16 11:53:29,2026-11-16 11:53:36,7
+PC-01,activity_monitor.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:53:32,2026-11-16 11:53:50,18
+PC-01,activity_monitor.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:53:36,2026-11-16 11:53:51,15
+PC-01,Snipping Tool Overlay,2026-11-16 11:53:50,2026-11-16 11:53:56,6
+PC-01,Snipping Tool Overlay,2026-11-16 11:53:51,2026-11-16 11:53:58,7
+PC-01,New notification,2026-11-16 11:53:58,2026-11-16 11:54:05,7
+PC-01,activity_monitor.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:53:56,2026-11-16 11:54:20,24
+PC-01,activity_monitor.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:54:05,2026-11-16 11:54:20,15
+PC-01,Task Switching,2026-11-16 11:54:20,2026-11-16 11:54:22,2
+PC-01,Task Switching,2026-11-16 11:54:20,2026-11-16 11:54:27,7
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 11:54:22,2026-11-16 11:55:10,48
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 11:54:27,2026-11-16 11:55:10,43
+PC-01,activity_monitor.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:55:10,2026-11-16 11:55:19,9
+PC-01,activity_monitor.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:55:10,2026-11-16 11:55:20,10
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 11:55:20,2026-11-16 11:55:22,2
+PC-01,Task Switching,2026-11-16 11:55:22,2026-11-16 11:55:24,2
+PC-01,Task Switching,2026-11-16 11:55:19,2026-11-16 11:55:26,7
+PC-01,activity_monitor.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:55:24,2026-11-16 11:55:32,8
+PC-01,activity_monitor.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:55:26,2026-11-16 11:55:33,7
+PC-01,● activity_monitor.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:55:32,2026-11-16 11:55:36,4
+PC-01,activity_monitor.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:55:36,2026-11-16 11:55:38,2
+PC-01,● activity_monitor.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:55:33,2026-11-16 11:55:40,7
+PC-01,● lan_connectivity_test.pay - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:55:38,2026-11-16 11:55:44,6
+PC-01,Visual Studio Code,2026-11-16 11:55:44,2026-11-16 11:55:46,2
+PC-01,● lan_connectivity_test.pay - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:55:40,2026-11-16 11:55:47,7
+PC-01,activity_monitor.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:55:46,2026-11-16 11:55:52,6
+PC-01,activity_monitor.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:55:47,2026-11-16 11:55:54,7
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 11:55:54,2026-11-16 11:56:03,9
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 11:55:52,2026-11-16 11:56:04,12
+PC-01,Task Switching,2026-11-16 11:56:03,2026-11-16 11:56:10,7
+PC-01,activity_monitor.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:56:04,2026-11-16 11:56:28,24
+PC-01,activity_monitor.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:56:10,2026-11-16 11:56:29,19
+PC-01,Task Switching,2026-11-16 11:56:28,2026-11-16 11:56:30,2
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 11:56:30,2026-11-16 11:56:40,10
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 11:56:29,2026-11-16 11:56:40,11
+PC-01,activity_monitor.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:56:40,2026-11-16 11:57:14,34
+PC-01,Snipping Tool Overlay,2026-11-16 11:57:14,2026-11-16 11:57:18,4
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 11:57:18,2026-11-16 11:57:22,4
+PC-01,activity_monitor.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:57:22,2026-11-16 11:57:24,2
+PC-01,New notification,2026-11-16 11:57:24,2026-11-16 11:57:26,2
+PC-01,activity_monitor.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:57:26,2026-11-16 11:57:28,2
+PC-01,Snipping Tool Overlay,2026-11-16 11:57:28,2026-11-16 11:57:32,4
+PC-01,activity_monitor.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:57:32,2026-11-16 11:57:34,2
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 11:57:34,2026-11-16 11:58:06,32
+PC-01,Unknown App,2026-11-16 11:58:06,2026-11-16 11:58:08,2
+PC-01,activity_monitor.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:58:08,2026-11-16 11:58:30,22
+PC-01,● activity_monitor.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:58:30,2026-11-16 11:58:32,2
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 11:58:32,2026-11-16 11:58:40,8
+PC-01,activity_monitor.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:58:49,2026-11-16 11:59:07,18
+PC-01,activity_monitor.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:58:40,2026-11-16 11:59:08,28
+PC-01,docker-compose.yml - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:59:08,2026-11-16 11:59:44,36
+PC-01,docker-compose.yml - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:59:07,2026-11-16 11:59:45,38
+PC-01,activity_monitor.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:59:44,2026-11-16 12:00:10,26
+PC-01,activity_monitor.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 11:59:45,2026-11-16 12:00:11,26
+PC-01,New tab - Personal - Microsoft​ Edge,2026-11-16 12:00:10,2026-11-16 12:00:20,10
+PC-01,New tab - Personal - Microsoft​ Edge,2026-11-16 12:00:11,2026-11-16 12:00:21,10
+PC-01,activity_monitor.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 12:00:20,2026-11-16 12:00:41,20
+PC-01,activity_monitor.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 12:00:21,2026-11-16 12:00:41,20
+PC-01,Task Switching,2026-11-16 12:00:41,2026-11-16 12:00:43,2
+PC-01,New tab - Personal - Microsoft​ Edge,2026-11-16 12:00:41,2026-11-16 12:00:43,2
+PC-01,activity_monitor.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 12:00:43,2026-11-16 12:00:47,4
+PC-01,activity_monitor.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 12:00:43,2026-11-16 12:00:47,4
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 12:00:47,2026-11-16 12:01:17,30
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 12:00:47,2026-11-16 12:01:17,30
+PC-01,Task Switching,2026-11-16 12:01:17,2026-11-16 12:01:19,2
+PC-01,Task Switching,2026-11-16 12:01:17,2026-11-16 12:01:19,2
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 12:01:19,2026-11-16 12:07:07,348
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 12:01:19,2026-11-16 12:07:07,348
+PC-01,System tray overflow window.,2026-11-16 12:07:07,2026-11-16 12:07:33,26
+PC-01,System tray overflow window.,2026-11-16 12:07:07,2026-11-16 12:07:35,28
+PC-01,Unknown App,2026-11-16 12:07:35,2026-11-16 12:07:39,4
+PC-01,Unknown App,2026-11-16 12:07:33,2026-11-16 12:07:39,6
+PC-01,New notification,2026-11-16 12:07:39,2026-11-16 12:07:41,2
+PC-01,Microsoft Windows,2026-11-16 12:07:41,2026-11-16 12:07:43,2
+PC-01,Microsoft Windows,2026-11-16 12:07:39,2026-11-16 12:07:43,4
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 12:07:43,2026-11-16 12:10:11,148
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 12:07:43,2026-11-16 12:10:11,148
+PC-01,Error Checking (KRMSVOL_EN_ (D:)),2026-11-16 12:10:11,2026-11-16 12:10:13,2
+PC-01,Error Checking (KRMSVOL_EN_ (D:)),2026-11-16 12:10:11,2026-11-16 12:10:13,2
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 12:10:13,2026-11-16 12:10:57,44
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 12:10:13,2026-11-16 12:10:57,44
+PC-01,Task Switching,2026-11-16 12:10:57,2026-11-16 12:10:59,2
+PC-01,Task Switching,2026-11-16 12:10:57,2026-11-16 12:10:59,2
+PC-01,activity_monitor.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 12:10:59,2026-11-16 12:11:01,2
+PC-01,activity_monitor.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 12:10:59,2026-11-16 12:11:01,2
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 12:11:01,2026-11-16 12:11:03,2
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 12:11:01,2026-11-16 12:11:03,2
+PC-01,activity_monitor.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 12:11:03,2026-11-16 12:11:13,10
+PC-01,activity_monitor.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 12:11:03,2026-11-16 12:11:13,10
+PC-01,Task Switching,2026-11-16 12:11:13,2026-11-16 12:11:15,2
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 12:11:15,2026-11-16 12:11:17,2
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 12:11:13,2026-11-16 12:11:17,4
+PC-01,Unknown App,2026-11-16 12:11:17,2026-11-16 12:11:19,2
+PC-01,File Explorer,2026-11-16 12:11:17,2026-11-16 12:11:19,2
+PC-01,Home - File Explorer,2026-11-16 12:11:19,2026-11-16 12:11:23,4
+PC-01,Home - File Explorer,2026-11-16 12:11:19,2026-11-16 12:11:23,4
+PC-01,KRMSVOL_EN_ (D:) - File Explorer,2026-11-16 12:11:23,2026-11-16 12:12:07,44
+PC-01,KRMSVOL_EN_ (D:) - File Explorer,2026-11-16 12:11:23,2026-11-16 12:12:09,46
+PC-01,efi - File Explorer,2026-11-16 12:12:09,2026-11-16 12:12:11,2
+PC-01,efi - File Explorer,2026-11-16 12:12:07,2026-11-16 12:12:11,4
+PC-01,KRMSVOL_EN_ (D:) - File Explorer,2026-11-16 12:12:11,2026-11-16 12:12:13,2
+PC-01,KRMSVOL_EN_ (D:) - File Explorer,2026-11-16 12:12:11,2026-11-16 12:12:13,2
+PC-01,Android - File Explorer,2026-11-16 12:12:13,2026-11-16 12:12:15,2
+PC-01,Android - File Explorer,2026-11-16 12:12:13,2026-11-16 12:12:15,2
+PC-01,KRMSVOL_EN_ (D:) - File Explorer,2026-11-16 12:12:15,2026-11-16 12:12:17,2
+PC-01,KRMSVOL_EN_ (D:) - File Explorer,2026-11-16 12:12:15,2026-11-16 12:12:17,2
+PC-01,cherry gamit - File Explorer,2026-11-16 12:12:17,2026-11-16 12:12:19,2
+PC-01,cherry gamit - File Explorer,2026-11-16 12:12:17,2026-11-16 12:12:19,2
+PC-01,KRMSVOL_EN_ (D:) - File Explorer,2026-11-16 12:12:19,2026-11-16 12:12:23,4
+PC-01,KRMSVOL_EN_ (D:) - File Explorer,2026-11-16 12:12:19,2026-11-16 12:12:23,4
+PC-01,labmonitoring - File Explorer,2026-11-16 12:12:23,2026-11-16 12:12:36,12
+PC-01,labmonitoring - File Explorer,2026-11-16 12:12:23,2026-11-16 12:12:37,14
+PC-01,Task Switching,2026-11-16 12:12:36,2026-11-16 12:12:38,2
+PC-01,activity_monitor.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 12:12:38,2026-11-16 12:12:46,8
+PC-01,activity_monitor.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 12:12:37,2026-11-16 12:12:47,10
+PC-01,Snipping Tool Overlay,2026-11-16 12:12:47,2026-11-16 12:12:49,2
+PC-01,Snipping Tool Overlay,2026-11-16 12:12:46,2026-11-16 12:12:50,4
+PC-01,Task Switching,2026-11-16 12:12:49,2026-11-16 12:12:51,2
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 12:12:50,2026-11-16 12:13:08,18
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 12:12:51,2026-11-16 12:13:09,18
+PC-01,Task Switching,2026-11-16 12:13:08,2026-11-16 12:13:10,2
+PC-01,labmonitoring - File Explorer,2026-11-16 12:13:10,2026-11-16 12:13:16,6
+PC-01,labmonitoring - File Explorer,2026-11-16 12:13:09,2026-11-16 12:13:17,8
+PC-01,Snipping Tool Overlay,2026-11-16 12:13:16,2026-11-16 12:13:20,4
+PC-01,Snipping Tool Overlay,2026-11-16 12:13:17,2026-11-16 12:13:21,4
+PC-01,labmonitoring - File Explorer,2026-11-16 12:13:20,2026-11-16 12:13:22,2
+PC-01,Task Switching,2026-11-16 12:13:21,2026-11-16 12:13:23,2
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 12:13:23,2026-11-16 12:14:11,48
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 12:13:22,2026-11-16 12:14:12,50
+PC-01,Task Switching,2026-11-16 12:14:11,2026-11-16 12:14:13,2
+PC-01,labmonitoring - File Explorer,2026-11-16 12:14:13,2026-11-16 12:14:15,2
+PC-01,labmonitoring - File Explorer,2026-11-16 12:14:12,2026-11-16 12:14:16,4
+PC-01,New folder - File Explorer,2026-11-16 12:14:16,2026-11-16 12:14:18,2
+PC-01,New folder - File Explorer,2026-11-16 12:14:15,2026-11-16 12:14:19,4
+PC-01,BSIT 3C OUTPUT (1stSem) - File Explorer,2026-11-16 12:14:18,2026-11-16 12:14:22,4
+PC-01,BSIT 3C OUTPUT (1stSem) - File Explorer,2026-11-16 12:14:19,2026-11-16 12:14:23,4
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 12:14:23,2026-11-16 12:14:25,2
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 12:14:22,2026-11-16 12:14:26,4
+PC-01,BSIT 3C OUTPUT (1stSem) - File Explorer,2026-11-16 12:14:25,2026-11-16 12:14:27,2
+PC-01,BSIT 3C OUTPUT (1stSem) - File Explorer,2026-11-16 12:14:26,2026-11-16 12:14:28,2
+PC-01,CHERRY MAE - File Explorer,2026-11-16 12:14:27,2026-11-16 12:14:31,4
+PC-01,CHERRY MAE - File Explorer,2026-11-16 12:14:28,2026-11-16 12:14:32,4
+PC-01,ComputerLabMonitoring - File Explorer,2026-11-16 12:14:31,2026-11-16 12:14:33,2
+PC-01,ComputerLabMonitoring - File Explorer,2026-11-16 12:14:32,2026-11-16 12:14:34,2
+PC-01,client - File Explorer,2026-11-16 12:14:34,2026-11-16 12:14:44,10
+PC-01,client - File Explorer,2026-11-16 12:14:33,2026-11-16 12:14:45,12
+PC-01,KRMSVOL_EN_ (D:) - File Explorer,2026-11-16 12:14:45,2026-11-16 12:14:47,2
+PC-01,KRMSVOL_EN_ (D:) - File Explorer,2026-11-16 12:14:44,2026-11-16 12:14:48,4
+PC-01,labmonitoring - File Explorer,2026-11-16 12:14:48,2026-11-16 12:14:50,2
+PC-01,labmonitoring - File Explorer,2026-11-16 12:14:47,2026-11-16 12:14:51,4
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 12:14:50,2026-11-16 12:14:52,2
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 12:14:51,2026-11-16 12:14:53,2
+PC-01,activity_monitor.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 12:14:53,2026-11-16 12:14:55,2
+PC-01,Task Switching,2026-11-16 12:14:52,2026-11-16 12:14:56,4
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 12:14:56,2026-11-16 12:15:08,12
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 12:14:55,2026-11-16 12:15:09,14
+PC-01,System tray overflow window.,2026-11-16 12:15:08,2026-11-16 12:15:10,2
+PC-01,System tray overflow window.,2026-11-16 12:15:09,2026-11-16 12:15:11,2
+PC-01,Battery Meter,2026-11-16 12:15:11,2026-11-16 12:20:43,332
+PC-01,Battery Meter,2026-11-16 12:15:10,2026-11-16 12:20:44,334
+PC-01,Unknown App,2026-11-16 12:20:43,2026-11-16 12:20:45,2
+PC-01,Home - File Explorer,2026-11-16 12:20:44,2026-11-16 12:21:00,16
+PC-01,Home - File Explorer,2026-11-16 12:20:45,2026-11-16 12:21:01,16
+PC-01,CHERRY MAE - File Explorer,2026-11-16 12:21:00,2026-11-16 12:21:04,4
+PC-01,CHERRY MAE - File Explorer,2026-11-16 12:21:01,2026-11-16 12:21:05,4
+PC-01,ComputerLabMonitoring - File Explorer,2026-11-16 12:21:05,2026-11-16 12:21:09,4
+PC-01,ComputerLabMonitoring - File Explorer,2026-11-16 12:21:04,2026-11-16 12:21:10,6
+PC-01,client - File Explorer,2026-11-16 12:21:10,2026-11-16 12:21:16,6
+PC-01,client - File Explorer,2026-11-16 12:21:09,2026-11-16 12:21:17,8
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 12:21:17,2026-11-16 12:21:21,4
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 12:21:16,2026-11-16 12:21:22,6
+PC-01,New Tab - Google Chrome,2026-11-16 12:21:22,2026-11-16 12:21:24,2
+PC-01,New Tab - Google Chrome,2026-11-16 12:21:21,2026-11-16 12:21:25,4
+PC-01,Gmail - Google Chrome,2026-11-16 12:21:24,2026-11-16 12:21:26,2
+PC-01,Gmail - Google Chrome,2026-11-16 12:21:25,2026-11-16 12:21:27,2
+PC-01,Unknown App,2026-11-16 12:21:26,2026-11-16 12:21:30,4
+PC-01,Unknown App,2026-11-16 12:21:27,2026-11-16 12:21:31,4
+PC-01,Inbox (804) - reyescherrymae04@gmail.com - Gmail - Google Chrome,2026-11-16 12:21:30,2026-11-16 12:21:32,2
+PC-01,Inbox (804) - reyescherrymae04@gmail.com - Gmail - Google Chrome,2026-11-16 12:21:31,2026-11-16 12:21:33,2
+PC-01,(no subject) - reyescherrymae04@gmail.com - Gmail - Google Chrome,2026-11-16 12:21:33,2026-11-16 12:22:35,62
+PC-01,(no subject) - reyescherrymae04@gmail.com - Gmail - Google Chrome,2026-11-16 12:21:32,2026-11-16 12:22:36,64
+PC-01,Quick settings,2026-11-16 12:22:35,2026-11-16 12:24:39,124
+PC-01,Quick settings,2026-11-16 12:22:36,2026-11-16 12:24:40,124
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 12:24:39,2026-11-16 12:26:37,118
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 12:24:40,2026-11-16 12:26:38,118
+PC-01,Run,2026-11-16 12:26:37,2026-11-16 12:26:41,4
+PC-01,Run,2026-11-16 12:26:38,2026-11-16 12:26:42,4
+PC-01,Program Manager,2026-11-16 12:26:41,2026-11-16 12:26:43,2
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 12:26:42,2026-11-16 12:27:28,46
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 12:26:43,2026-11-16 12:27:29,46
+PC-01,Unknown App,2026-11-16 12:27:28,2026-11-16 12:27:30,2
+PC-01,Unknown App,2026-11-16 12:27:29,2026-11-16 12:27:31,2
+PC-01,Quick settings,2026-11-16 12:27:31,2026-11-16 12:28:37,66
+PC-01,Quick settings,2026-11-16 12:27:30,2026-11-16 12:28:39,68
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 12:28:37,2026-11-16 12:30:37,120
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 12:28:39,2026-11-16 12:30:39,120
+PC-01,Unknown App,2026-11-16 12:30:37,2026-11-16 12:30:39,2
+PC-01,Quick settings,2026-11-16 12:30:39,2026-11-16 12:37:24,404
+PC-01,Quick settings,2026-11-16 12:30:39,2026-11-16 12:37:25,406
+PC-01,client - File Explorer,2026-11-16 12:37:25,2026-11-16 12:37:27,2
+PC-01,client - File Explorer,2026-11-16 12:37:24,2026-11-16 12:37:28,4
+PC-01,CHERRY MAE - File Explorer,2026-11-16 12:37:28,2026-11-16 13:03:48,1580
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 13:03:48,2026-11-16 13:03:50,2
+PC-01,CHERRY MAE - File Explorer,2026-11-16 12:37:27,2026-11-16 13:03:51,1584
+PC-01,CHERRY MAE - File Explorer,2026-11-16 13:03:50,2026-11-16 13:03:52,2
+PC-01,activity_monitor.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:03:51,2026-11-16 13:03:55,4
+PC-01,activity_monitor.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:03:52,2026-11-16 13:03:56,4
+PC-01,app_session_logs.csv - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:03:56,2026-11-16 13:04:04,8
+PC-01,app_session_logs.csv - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:03:55,2026-11-16 13:04:05,10
+PC-01,session_test_logs.csv - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:04:05,2026-11-16 13:05:07,62
+PC-01,session_test_logs.csv - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:04:04,2026-11-16 13:05:08,64
+PC-01,Quick settings,2026-11-16 13:05:07,2026-11-16 13:05:28,20
+PC-01,Quick settings,2026-11-16 13:05:08,2026-11-16 13:05:28,20
+PC-01,session_test_logs.csv - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:05:28,2026-11-16 13:07:36,128
+PC-01,session_test_logs.csv - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:05:28,2026-11-16 13:07:37,129
+PC-01,(no subject) - fransirishm@gmail.com - Gmail - Google Chrome,2026-11-16 13:07:36,2026-11-16 13:07:38,2
+PC-01,(no subject) - fransirishm@gmail.com - Gmail - Google Chrome,2026-11-16 13:07:37,2026-11-16 13:07:44,7
+PC-01,session_test_logs.csv - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:07:38,2026-11-16 13:07:44,6
+PC-01,Snipping Tool Overlay,2026-11-16 13:07:44,2026-11-16 13:07:46,2
+PC-01,session_test_logs.csv - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:07:46,2026-11-16 13:07:48,2
+PC-01,Snipping Tool Overlay,2026-11-16 13:07:44,2026-11-16 13:07:51,7
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 13:07:51,2026-11-16 13:08:56,65
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 13:07:48,2026-11-16 13:08:56,68
+PC-01,Task Switching,2026-11-16 13:08:56,2026-11-16 13:08:58,2
+PC-01,Task Switching,2026-11-16 13:08:56,2026-11-16 13:09:03,7
+PC-01,session_test_logs.csv - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:09:03,2026-11-16 13:09:14,11
+PC-01,session_test_logs.csv - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:08:58,2026-11-16 13:09:14,16
+PC-01,Snipping Tool Overlay,2026-11-16 13:09:14,2026-11-16 13:09:18,4
+PC-01,Task Switching,2026-11-16 13:09:18,2026-11-16 13:09:20,2
+PC-01,Snipping Tool Overlay,2026-11-16 13:09:14,2026-11-16 13:09:21,7
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 13:09:20,2026-11-16 13:09:36,16
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 13:09:21,2026-11-16 13:09:38,17
+PC-01,Quick settings,2026-11-16 13:09:36,2026-11-16 13:09:44,8
+PC-01,Quick settings,2026-11-16 13:09:38,2026-11-16 13:09:45,7
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 13:09:44,2026-11-16 13:09:56,12
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 13:09:45,2026-11-16 13:09:58,13
+PC-01,Task Switching,2026-11-16 13:09:56,2026-11-16 13:09:59,2
+PC-01,session_test_logs.csv - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:09:59,2026-11-16 13:10:13,14
+PC-01,session_test_logs.csv - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:09:58,2026-11-16 13:10:13,15
+PC-01,Snipping Tool Overlay,2026-11-16 13:10:13,2026-11-16 13:10:17,4
+PC-01,session_test_logs.csv - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:10:17,2026-11-16 13:10:19,2
+PC-01,Snipping Tool Overlay,2026-11-16 13:10:13,2026-11-16 13:10:20,7
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 13:10:19,2026-11-16 13:10:45,26
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 13:10:20,2026-11-16 13:10:45,25
+PC-01,session_test_logs.csv - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:10:45,2026-11-16 13:10:53,8
+PC-01,session_test_logs.csv - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:10:45,2026-11-16 13:10:54,9
+PC-01,Snipping Tool Overlay,2026-11-16 13:10:53,2026-11-16 13:11:01,8
+PC-01,Snipping Tool Overlay,2026-11-16 13:10:54,2026-11-16 13:11:01,7
+PC-01,Unknown App,2026-11-16 13:11:01,2026-11-16 13:11:03,2
+PC-01,Task Switching,2026-11-16 13:11:01,2026-11-16 13:11:08,7
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 13:11:03,2026-11-16 13:11:23,20
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 13:11:08,2026-11-16 13:11:23,15
+PC-01,Task Switching,2026-11-16 13:11:23,2026-11-16 13:11:25,2
+PC-01,session_test_logs.csv - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:11:23,2026-11-16 13:11:46,23
+PC-01,session_test_logs.csv - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:11:25,2026-11-16 13:11:47,22
+PC-01,Snipping Tool Overlay,2026-11-16 13:11:47,2026-11-16 13:11:49,2
+PC-01,session_test_logs.csv - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:11:49,2026-11-16 13:11:51,2
+PC-01,Snipping Tool Overlay,2026-11-16 13:11:46,2026-11-16 13:11:53,7
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 13:11:53,2026-11-16 13:13:36,103
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 13:11:51,2026-11-16 13:13:37,106
+PC-01,session_test_logs.csv - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:13:37,2026-11-16 13:13:41,4
+PC-01,● main.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:13:41,2026-11-16 13:13:43,2
+PC-01,session_test_logs.csv - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:13:36,2026-11-16 13:13:43,7
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 13:13:43,2026-11-16 13:13:45,2
+PC-01,Task Switching,2026-11-16 13:13:45,2026-11-16 13:13:47,2
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 13:13:43,2026-11-16 13:13:50,7
+PC-01,● main.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:13:47,2026-11-16 13:14:07,20
+PC-01,● main.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:13:50,2026-11-16 13:14:07,17
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 13:14:07,2026-11-16 13:14:11,4
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 13:14:07,2026-11-16 13:14:14,7
+PC-01,● main.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:14:11,2026-11-16 13:14:19,8
+PC-01,Snipping Tool Overlay,2026-11-16 13:14:19,2026-11-16 13:14:21,2
+PC-01,● main.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:14:21,2026-11-16 13:14:25,4
+PC-01,● main.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:14:14,2026-11-16 13:14:25,11
+PC-01,main.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:14:25,2026-11-16 13:14:29,4
+PC-01,Unknown App,2026-11-16 13:14:29,2026-11-16 13:14:31,2
+PC-01,main.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:14:25,2026-11-16 13:14:32,7
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 13:14:31,2026-11-16 13:15:15,44
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 13:14:32,2026-11-16 13:15:15,43
+PC-01,Task Switching,2026-11-16 13:15:15,2026-11-16 13:15:17,2
+PC-01,main.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:15:17,2026-11-16 13:15:21,4
+PC-01,main.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:15:15,2026-11-16 13:15:22,7
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 13:15:21,2026-11-16 13:16:31,70
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 13:15:22,2026-11-16 13:16:31,69
+PC-01,main.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:16:31,2026-11-16 13:17:03,32
+PC-01,main.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:16:31,2026-11-16 13:17:04,33
+PC-01,Task Switching,2026-11-16 13:17:03,2026-11-16 13:17:05,2
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 13:17:05,2026-11-16 13:17:21,16
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 13:17:04,2026-11-16 13:17:21,17
+PC-01,localhost:8000 - Google Chrome,2026-11-16 13:17:21,2026-11-16 13:17:25,4
+PC-01,localhost:8000 - Google Chrome,2026-11-16 13:17:21,2026-11-16 13:17:28,7
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 13:17:28,2026-11-16 13:39:32,1323
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 13:17:25,2026-11-16 13:39:34,1328
+PC-01,Unknown App,2026-11-16 13:39:34,2026-11-16 13:39:36,2
+PC-01,Unknown App,2026-11-16 13:39:32,2026-11-16 13:39:36,4
+PC-01,Quick settings,2026-11-16 13:39:36,2026-11-16 13:39:48,12
+PC-01,Quick settings,2026-11-16 13:39:36,2026-11-16 13:39:48,12
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 13:39:48,2026-11-16 13:40:13,25
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 13:39:48,2026-11-16 13:40:14,26
+PC-01,Task Switching,2026-11-16 13:40:14,2026-11-16 13:40:16,2
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 13:40:16,2026-11-16 13:40:22,6
+PC-01,Task Switching,2026-11-16 13:40:13,2026-11-16 13:40:22,9
+PC-01,main.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:40:22,2026-11-16 13:40:43,21
+PC-01,main.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:40:22,2026-11-16 13:40:44,22
+PC-01,Snipping Tool Overlay,2026-11-16 13:40:44,2026-11-16 13:40:50,6
+PC-01,Snipping Tool Overlay,2026-11-16 13:40:43,2026-11-16 13:40:50,7
+PC-01,main.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:40:50,2026-11-16 13:40:52,2
+PC-01,Task Switching,2026-11-16 13:40:50,2026-11-16 13:40:57,7
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 13:40:52,2026-11-16 13:41:22,30
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 13:40:57,2026-11-16 13:41:22,25
+PC-01,main.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:41:22,2026-11-16 13:41:37,15
+PC-01,main.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:41:22,2026-11-16 13:41:38,16
+PC-01,● main.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:41:38,2026-11-16 13:41:40,2
+PC-01,● main.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:41:37,2026-11-16 13:41:44,7
+PC-01,main.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:41:44,2026-11-16 13:42:39,55
+PC-01,main.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:41:40,2026-11-16 13:42:40,60
+PC-01,● main.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:42:40,2026-11-16 13:42:48,8
+PC-01,● main.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:42:39,2026-11-16 13:42:48,9
+PC-01,main.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:42:48,2026-11-16 13:42:50,2
+PC-01,main.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:42:48,2026-11-16 13:42:55,7
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 13:42:50,2026-11-16 13:43:04,14
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 13:42:55,2026-11-16 13:43:04,9
+PC-01,Task Switching,2026-11-16 13:43:04,2026-11-16 13:43:06,2
+PC-01,Task Switching,2026-11-16 13:43:04,2026-11-16 13:43:11,7
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 13:43:06,2026-11-16 13:43:12,6
+PC-01,Task Switching,2026-11-16 13:43:12,2026-11-16 13:43:14,2
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 13:43:11,2026-11-16 13:43:18,7
+PC-01,main.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:43:18,2026-11-16 13:43:40,21
+PC-01,main.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:43:14,2026-11-16 13:43:40,26
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 13:43:40,2026-11-16 13:44:01,21
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 13:43:40,2026-11-16 13:44:02,22
+PC-01,Task Switching,2026-11-16 13:44:01,2026-11-16 13:44:08,7
+PC-01,main.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:44:02,2026-11-16 13:44:14,12
+PC-01,main.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:44:08,2026-11-16 13:44:15,7
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 13:44:15,2026-11-16 13:44:34,19
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 13:44:14,2026-11-16 13:44:34,20
+PC-01,main.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:44:34,2026-11-16 13:44:42,8
+PC-01,main.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:44:34,2026-11-16 13:44:43,9
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 13:44:42,2026-11-16 13:44:46,4
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 13:44:43,2026-11-16 13:44:50,7
+PC-01,main.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:44:46,2026-11-16 13:44:54,8
+PC-01,main.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:44:50,2026-11-16 13:44:57,7
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 13:44:57,2026-11-16 13:45:32,35
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 13:44:54,2026-11-16 13:45:32,38
+PC-01,main.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:45:32,2026-11-16 13:45:54,22
+PC-01,main.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:45:32,2026-11-16 13:45:55,23
+PC-01,Task Switching,2026-11-16 13:45:54,2026-11-16 13:45:56,2
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 13:45:55,2026-11-16 13:46:04,9
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 13:45:56,2026-11-16 13:46:04,8
+PC-01,main.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:46:04,2026-11-16 13:46:16,12
+PC-01,main.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:46:04,2026-11-16 13:46:17,13
+PC-01,0.0.0.0 - Personal - Microsoft​ Edge,2026-11-16 13:46:17,2026-11-16 13:46:24,7
+PC-01,0.0.0.0 - Personal - Microsoft​ Edge,2026-11-16 13:46:16,2026-11-16 13:46:24,8
+PC-01,main.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:46:24,2026-11-16 13:46:34,10
+PC-01,main.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:46:24,2026-11-16 13:46:35,11
+PC-01,Unknown App,2026-11-16 13:46:34,2026-11-16 13:46:36,2
+PC-01,New Tab - Google Chrome,2026-11-16 13:46:36,2026-11-16 13:46:40,4
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 13:46:35,2026-11-16 13:46:42,7
+PC-01,0.0.0.0 - Google Chrome,2026-11-16 13:46:40,2026-11-16 13:46:48,8
+PC-01,0.0.0.0 - Google Chrome,2026-11-16 13:46:42,2026-11-16 13:46:49,7
+PC-01,Snipping Tool Overlay,2026-11-16 13:46:48,2026-11-16 13:46:52,4
+PC-01,Snipping Tool Overlay,2026-11-16 13:46:49,2026-11-16 13:46:56,7
+PC-01,0.0.0.0 - Google Chrome,2026-11-16 13:46:52,2026-11-16 13:46:56,4
+PC-01,main.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:46:56,2026-11-16 13:47:05,9
+PC-01,main.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:46:56,2026-11-16 13:47:06,10
+PC-01,0.0.0.0 - Personal - Microsoft​ Edge,2026-11-16 13:47:06,2026-11-16 13:47:08,2
+PC-01,Snipping Tool Overlay,2026-11-16 13:47:08,2026-11-16 13:47:12,4
+PC-01,0.0.0.0 - Personal - Microsoft​ Edge,2026-11-16 13:47:05,2026-11-16 13:47:14,9
+PC-01,0.0.0.0 - Personal - Microsoft​ Edge,2026-11-16 13:47:12,2026-11-16 13:47:14,2
+PC-01,Task Switching,2026-11-16 13:47:14,2026-11-16 13:47:18,4
+PC-01,Task Switching,2026-11-16 13:47:14,2026-11-16 13:47:21,7
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 13:47:21,2026-11-16 13:48:00,39
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 13:47:18,2026-11-16 13:48:00,42
+PC-01,main.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:48:00,2026-11-16 13:48:02,2
+PC-01,Task Switching,2026-11-16 13:48:02,2026-11-16 13:48:04,2
+PC-01,main.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:48:00,2026-11-16 13:48:09,9
+PC-01,main.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:48:04,2026-11-16 13:48:10,6
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 13:48:09,2026-11-16 13:48:16,7
+PC-01,0.0.0.0 - Google Chrome,2026-11-16 13:48:10,2026-11-16 13:48:18,8
+PC-01,localhost:8000 - Google Chrome,2026-11-16 13:48:18,2026-11-16 13:48:22,4
+PC-01,0.0.0.0 - Google Chrome,2026-11-16 13:48:16,2026-11-16 13:48:23,7
+PC-01,main.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:48:22,2026-11-16 13:48:24,2
+PC-01,Task Switching,2026-11-16 13:48:24,2026-11-16 13:48:26,2
+PC-01,localhost:8000 - Google Chrome,2026-11-16 13:48:26,2026-11-16 13:48:28,2
+PC-01,Task Switching,2026-11-16 13:48:23,2026-11-16 13:48:30,7
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 13:48:30,2026-11-16 13:48:49,19
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 13:48:28,2026-11-16 13:48:54,26
+PC-01,main.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:48:49,2026-11-16 13:48:56,7
+PC-01,localhost:8000 - Google Chrome,2026-11-16 13:48:54,2026-11-16 13:48:58,4
+PC-01,localhost:8000 - Google Chrome,2026-11-16 13:48:56,2026-11-16 13:49:03,7
+PC-01,Computer Laboratory Monitoring API - Swagger UI - Google Chrome,2026-11-16 13:48:58,2026-11-16 13:49:04,6
+PC-01,Task Switching,2026-11-16 13:49:04,2026-11-16 13:49:06,2
+PC-01,main.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:49:03,2026-11-16 13:49:10,7
+PC-01,Snipping Tool Overlay,2026-11-16 13:49:06,2026-11-16 13:49:12,6
+PC-01,Computer Laboratory Monitoring API - Swagger UI - Google Chrome,2026-11-16 13:49:12,2026-11-16 13:49:14,2
+PC-01,Unknown App,2026-11-16 13:49:14,2026-11-16 13:49:16,2
+PC-01,Snipping Tool Overlay,2026-11-16 13:49:10,2026-11-16 13:49:17,7
+PC-01,Task Switching,2026-11-16 13:49:16,2026-11-16 13:49:20,4
+PC-01,Task Switching,2026-11-16 13:49:17,2026-11-16 13:49:24,7
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 13:49:24,2026-11-16 13:49:55,31
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 13:49:20,2026-11-16 13:49:56,36
+PC-01,main.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:49:56,2026-11-16 13:50:08,12
+PC-01,main.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:49:55,2026-11-16 13:50:08,13
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 13:50:08,2026-11-16 13:50:10,2
+PC-01,Task Switching,2026-11-16 13:50:10,2026-11-16 13:50:12,2
+PC-01,main.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:50:12,2026-11-16 13:50:14,2
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 13:50:08,2026-11-16 13:50:15,7
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 13:50:14,2026-11-16 13:50:16,2
+PC-01,Task Switching,2026-11-16 13:50:15,2026-11-16 13:50:22,7
+PC-01,main.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:50:16,2026-11-16 13:50:24,8
+PC-01,main.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:50:22,2026-11-16 13:50:29,7
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 13:50:24,2026-11-16 13:52:20,116
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 13:50:29,2026-11-16 13:52:20,111
+PC-01,Computer Laboratory Monitoring API - Swagger UI - Google Chrome,2026-11-16 13:52:20,2026-11-16 13:52:53,33
+PC-01,Computer Laboratory Monitoring API - Swagger UI - Google Chrome,2026-11-16 13:52:20,2026-11-16 13:52:54,34
+PC-01,main.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:52:54,2026-11-16 13:52:58,4
+PC-01,Task Switching,2026-11-16 13:52:58,2026-11-16 13:53:00,2
+PC-01,Task Switching,2026-11-16 13:52:53,2026-11-16 13:53:00,7
+PC-01,Computer Laboratory Monitoring API - Swagger UI - Google Chrome,2026-11-16 13:53:00,2026-11-16 13:53:02,2
+PC-01,Computer Laboratory Monitoring API - Swagger UI - Google Chrome,2026-11-16 13:53:00,2026-11-16 13:53:07,7
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 13:53:02,2026-11-16 13:54:34,92
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 13:53:07,2026-11-16 13:54:34,87
+PC-01,Task Switching,2026-11-16 13:54:34,2026-11-16 13:54:36,2
+PC-01,Task Switching,2026-11-16 13:54:34,2026-11-16 13:54:41,7
+PC-01,main.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:54:36,2026-11-16 13:54:44,8
+PC-01,init.sql - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:54:44,2026-11-16 13:54:48,4
+PC-01,main.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:54:41,2026-11-16 13:54:48,7
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 13:54:48,2026-11-16 13:55:00,12
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 13:54:48,2026-11-16 13:55:01,13
+PC-01,Task Switching,2026-11-16 13:55:00,2026-11-16 13:55:02,2
+PC-01,init.sql - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:55:02,2026-11-16 13:55:26,24
+PC-01,init.sql - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:55:01,2026-11-16 13:55:26,25
+PC-01,Snipping Tool Overlay,2026-11-16 13:55:26,2026-11-16 13:55:35,9
+PC-01,Snipping Tool Overlay,2026-11-16 13:55:26,2026-11-16 13:55:36,10
+PC-01,Task Switching,2026-11-16 13:55:36,2026-11-16 13:55:38,2
+PC-01,init.sql - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:55:35,2026-11-16 13:55:42,7
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 13:55:38,2026-11-16 13:56:24,46
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 13:55:42,2026-11-16 13:56:25,43
+PC-01,Task Switching,2026-11-16 13:56:24,2026-11-16 13:56:26,2
+PC-01,init.sql - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:56:26,2026-11-16 13:56:50,24
+PC-01,init.sql - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:56:25,2026-11-16 13:56:50,25
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 13:56:50,2026-11-16 13:56:54,4
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 13:56:50,2026-11-16 13:56:58,7
+PC-01,init.sql - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:56:54,2026-11-16 13:56:58,4
+PC-01,Snipping Tool Overlay,2026-11-16 13:56:58,2026-11-16 13:57:02,4
+PC-01,Task Switching,2026-11-16 13:57:02,2026-11-16 13:57:04,2
+PC-01,init.sql - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:56:58,2026-11-16 13:57:05,7
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 13:57:05,2026-11-16 13:57:28,23
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 13:57:04,2026-11-16 13:57:28,24
+PC-01,init.sql - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:57:28,2026-11-16 13:57:36,8
+PC-01,init.sql - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:57:28,2026-11-16 13:57:37,9
+PC-01,activity_monitor.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:57:37,2026-11-16 13:58:02,25
+PC-01,activity_monitor.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:57:36,2026-11-16 13:58:02,26
+PC-01,requirements.txt - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:58:02,2026-11-16 13:58:04,2
+PC-01,requirements.txt - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:58:02,2026-11-16 13:58:09,7
+PC-01,main.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:58:04,2026-11-16 13:58:20,16
+PC-01,main.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:58:09,2026-11-16 13:58:22,13
+PC-01,Dockerfile - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:58:20,2026-11-16 13:58:24,4
+PC-01,requirements.txt - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:58:24,2026-11-16 13:58:28,4
+PC-01,Dockerfile - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:58:22,2026-11-16 13:58:29,7
+PC-01,session_test_logs.csv - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:58:28,2026-11-16 13:58:30,2
+PC-01,activity_monitor.py - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:58:30,2026-11-16 13:58:35,4
+PC-01,session_test_logs.csv - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:58:29,2026-11-16 13:58:36,7
+PC-01,init.sql - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:58:35,2026-11-16 13:58:45,10
+PC-01,init.sql - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:58:36,2026-11-16 13:58:45,9
+PC-01,docker-compose.yml - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:58:45,2026-11-16 13:58:47,2
+PC-01,docker-compose.yml - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:58:45,2026-11-16 13:58:52,7
+PC-01,.env - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:58:47,2026-11-16 14:00:49,122
+PC-01,.env - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 13:58:52,2026-11-16 14:00:49,117
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 14:00:49,2026-11-16 14:00:53,4
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 14:00:49,2026-11-16 14:00:56,7
+PC-01,.env - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 14:00:53,2026-11-16 14:01:21,28
+PC-01,.env - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 14:00:56,2026-11-16 14:01:21,25
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 14:01:21,2026-11-16 14:01:34,13
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 14:01:21,2026-11-16 14:01:35,14
+PC-01,.env - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 14:01:35,2026-11-16 14:01:53,18
+PC-01,.env - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 14:01:34,2026-11-16 14:01:53,19
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 14:01:53,2026-11-16 14:01:57,4
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 14:01:53,2026-11-16 14:02:00,7
+PC-01,.env - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 14:01:57,2026-11-16 14:02:27,30
+PC-01,.env - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 14:02:00,2026-11-16 14:02:27,27
+PC-01,Snipping Tool Overlay,2026-11-16 14:02:27,2026-11-16 14:02:31,4
+PC-01,.env - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 14:02:31,2026-11-16 14:02:33,2
+PC-01,Snipping Tool Overlay,2026-11-16 14:02:27,2026-11-16 14:02:34,7
+PC-01,Task Switching,2026-11-16 14:02:33,2026-11-16 14:02:35,2
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 14:02:35,2026-11-16 14:02:55,20
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 14:02:34,2026-11-16 14:02:55,21
+PC-01,.env - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 14:02:55,2026-11-16 14:02:57,2
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 14:02:57,2026-11-16 14:03:01,4
+PC-01,.env - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 14:02:55,2026-11-16 14:03:02,7
+PC-01,.env - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 14:03:01,2026-11-16 14:03:03,2
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 14:03:03,2026-11-16 14:03:05,2
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 14:03:02,2026-11-16 14:03:09,7
+PC-01,.env - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 14:03:05,2026-11-16 14:03:15,10
+PC-01,.env - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 14:03:09,2026-11-16 14:03:16,7
+PC-01,Snipping Tool Overlay,2026-11-16 14:03:15,2026-11-16 14:03:19,4
+PC-01,.env - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 14:03:19,2026-11-16 14:03:21,2
+PC-01,Snipping Tool Overlay,2026-11-16 14:03:16,2026-11-16 14:03:23,7
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 14:03:21,2026-11-16 14:03:39,18
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 14:03:23,2026-11-16 14:03:40,17
+PC-01,.env - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 14:03:40,2026-11-16 14:04:17,37
+PC-01,.env - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 14:03:39,2026-11-16 14:04:19,40
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 14:04:19,2026-11-16 14:04:23,4
+PC-01,Task Switching,2026-11-16 14:04:17,2026-11-16 14:04:24,7
+PC-01,.env - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 14:04:23,2026-11-16 14:05:57,94
+PC-01,.env - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 14:04:24,2026-11-16 14:05:57,93
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 14:05:57,2026-11-16 14:06:01,4
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 14:05:57,2026-11-16 14:06:04,7
+PC-01,.env - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 14:06:01,2026-11-16 14:06:19,18
+PC-01,.env - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 14:06:04,2026-11-16 14:06:19,15
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 14:06:19,2026-11-16 14:06:21,2
+PC-01,Task Switching,2026-11-16 14:06:21,2026-11-16 14:06:23,2
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 14:06:19,2026-11-16 14:06:26,7
+PC-01,.env - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 14:06:23,2026-11-16 14:06:29,6
+PC-01,.env - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 14:06:26,2026-11-16 14:06:33,7
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 14:06:29,2026-11-16 14:06:37,8
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 14:06:33,2026-11-16 14:06:40,7
+PC-01,.env - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 14:06:37,2026-11-16 14:06:47,10
+PC-01,.env - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 14:06:40,2026-11-16 14:06:47,7
+PC-01,Snipping Tool Overlay,2026-11-16 14:06:47,2026-11-16 14:06:49,2
+PC-01,.env - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 14:06:49,2026-11-16 14:06:53,4
+PC-01,Snipping Tool Overlay,2026-11-16 14:06:47,2026-11-16 14:06:58,11
+PC-01,Snipping Tool Overlay,2026-11-16 14:06:53,2026-11-16 14:06:59,6
+PC-01,Task Switching,2026-11-16 14:06:58,2026-11-16 14:07:05,7
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 14:07:05,2026-11-16 14:07:38,33
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 14:06:59,2026-11-16 14:07:39,40
+PC-01,Task Switching,2026-11-16 14:07:38,2026-11-16 14:07:45,7
+PC-01,.env - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 14:07:39,2026-11-16 14:08:17,38
+PC-01,.env - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 14:07:45,2026-11-16 14:08:18,33
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 14:08:17,2026-11-16 14:08:23,6
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 14:08:18,2026-11-16 14:08:25,7
+PC-01,.env - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 14:08:25,2026-11-16 14:30:16,1311
+PC-01,.env - ComputerLabMonitoring - Visual Studio Code [Administrator],2026-11-16 14:08:23,2026-11-16 14:30:17,1314
+PC-01,Task Switching,2026-11-16 14:30:16,2026-11-16 14:30:23,7
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 14:30:17,2026-11-16 14:40:09,592
+PC-01,Lab Monitoring Setup - Google Gemini - Google Chrome,2026-11-16 14:30:23,2026-11-16 14:40:11,587
+PC-01,Search,2026-11-16 14:40:09,2026-11-16 14:40:11,2
+PC-01,Search,2026-11-16 14:40:11,2026-11-16 14:40:18,7
