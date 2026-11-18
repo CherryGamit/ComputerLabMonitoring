@@ -1,0 +1,375 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lab Monitoring System | Dashboard</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    <!-- Boxicons para sa mga ekstrang icons kung kailangan -->
+    <link href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="dash.css">
+</head>
+
+<body>
+
+<div class="dashboard-container">
+
+    <aside class="sidebar" id="sidebar">
+
+        <div class="brand">
+            <div class="brand-logo">
+                <i class="fas fa-shield-halved"></i>
+            </div>
+
+            <h3>LAB MONITORING</h3>
+            <p>Computer Laboratory<br>Monitoring System</p>
+        </div>
+
+        <div class="menu-label">MAIN MENU</div>
+
+        <nav class="sidebar-menu">
+            <a href="#" class="menu-item active" data-page="Dashboard">
+                <i class="fas fa-house"></i>
+                <span>Dashboard</span>
+            </a>
+
+            <a href="#" class="menu-item" data-page="Computer Units">
+                <i class="fas fa-desktop"></i>
+                <span>Computer Units</span>
+            </a>
+
+            <a href="#" class="menu-item" data-page="Session Logs">
+                <i class="fas fa-clipboard-list"></i>
+                <span>Session Logs</span>
+            </a>
+
+            <a href="#" class="menu-item" data-page="Application Usage">
+                <i class="fas fa-chart-column"></i>
+                <span>Application Usage</span>
+            </a>
+
+            <a href="#" class="menu-item" data-page="Security Alerts">
+                <i class="fas fa-shield-halved"></i>
+                <span>Security Alerts</span>
+            </a>
+        </nav>
+
+        <div class="menu-label settings-label">SYSTEM</div>
+
+        <nav class="sidebar-menu">
+            <a href="#" class="menu-item" data-page="Settings">
+                <i class="fas fa-gear"></i>
+                <span>Settings</span>
+            </a>
+        </nav>
+
+        <div class="sidebar-bottom">
+
+            <div class="sidebar-user">
+                <div class="user-avatar">AD</div>
+
+                <div>
+                    <h4>Administrator</h4>
+                    <small>System Admin</small>
+                </div>
+            </div>
+
+            <button type="button" class="logout-button" id="logoutButton">
+                <i class="fas fa-right-from-bracket"></i>
+                <span>Logout</span>
+            </button>
+
+            <p>© 2026 Lab Monitoring System</p>
+
+        </div>
+
+    </aside>
+
+
+    <main class="main-content">
+
+        <header class="topbar">
+
+            <div class="topbar-left">
+
+                <button class="menu-toggle" id="menuToggle" aria-label="Toggle menu">
+                    <i class="fas fa-bars"></i>
+                </button>
+
+                <div>
+                    <h3 id="topbarTitle">Computer Laboratory Dashboard</h3>
+                    <small>Laboratory Monitoring System</small>
+                </div>
+
+            </div>
+
+
+            <div class="topbar-right">
+
+                <button class="notification-btn" id="notificationButton" title="Notifications" aria-label="Notifications">
+                    <i class="far fa-bell"></i>
+                    <span class="notification-dot"></span>
+                </button>
+
+                <button class="profile" id="profileButton" type="button">
+
+                    <div class="profile-avatar">AD</div>
+
+                    <div class="profile-info">
+                        <strong>Admin</strong>
+                        <small>Administrator</small>
+                    </div>
+
+                    <i class="fas fa-chevron-down"></i>
+
+                </button>
+
+            </div>
+
+        </header>
+
+
+        <section class="content" id="content">
+
+            <!-- ==========================================
+                 VIEW 1: DEFAULT DASHBOARD VIEW
+                 ========================================== -->
+            <div id="view-Dashboard" class="dashboard-view">
+                <div class="welcome-section">
+                    <div>
+                        <h1>Welcome back, Administrator!</h1>
+                        <p>Here's an overview of your computer laboratory.</p>
+                    </div>
+
+                    <div class="date-display">
+                        <i class="far fa-calendar"></i>
+                        <span id="currentDate"></span>
+                    </div>
+                </div>
+
+
+                <div class="stats-grid">
+                    <button class="stat-card" data-go="Computer Units">
+                        <div class="stat-icon blue">
+                            <i class="fas fa-desktop"></i>
+                        </div>
+                        <div class="stat-details">
+                            <p>Total Computers</p>
+                            <h2 id="totalComputers">30</h2>
+                            <span>Registered units</span>
+                        </div>
+                        <div class="stat-arrow">
+                            <i class="fas fa-arrow-right"></i>
+                        </div>
+                    </button>
+
+                    <button class="stat-card" data-go="Computer Units">
+                        <div class="stat-icon green">
+                            <i class="fas fa-check-circle"></i>
+                        </div>
+                        <div class="stat-details">
+                            <p>Available Computers</p>
+                            <h2 id="availableComputers">18</h2>
+                            <span>Ready for use</span>
+                        </div>
+                        <div class="stat-arrow">
+                            <i class="fas fa-arrow-right"></i>
+                        </div>
+                    </button>
+
+                    <button class="stat-card" data-go="Computer Units">
+                        <div class="stat-icon orange">
+                            <i class="fas fa-computer"></i>
+                        </div>
+                        <div class="stat-details">
+                            <p>Computers in Use</p>
+                            <h2 id="inUseComputers">12</h2>
+                            <span>Currently occupied</span>
+                        </div>
+                        <div class="stat-arrow">
+                            <i class="fas fa-arrow-right"></i>
+                        </div>
+                    </button>
+
+                    <button class="stat-card" data-go="Session Logs">
+                        <div class="stat-icon purple">
+                            <i class="fas fa-users"></i>
+                        </div>
+                        <div class="stat-details">
+                            <p>Active Sessions</p>
+                            <h2>24</h2>
+                            <span>Current sessions</span>
+                        </div>
+                        <div class="stat-arrow">
+                            <i class="fas fa-arrow-right"></i>
+                        </div>
+                    </button>
+                </div>
+
+
+                <div class="dashboard-grid">
+                    <div class="panel activity-panel">
+                        <div class="panel-header">
+                            <div>
+                                <h3>
+                                    <i class="fas fa-chart-line"></i>
+                                    Laboratory Activity Overview
+                                </h3>
+                                <p>Computer usage throughout the week</p>
+                            </div>
+                            <select id="chartFilter">
+                                <option>Last 7 Days</option>
+                                <option>Last 30 Days</option>
+                            </select>
+                        </div>
+
+                        <div class="chart-container">
+                            <div class="chart-legend">
+                                <span><i class="legend-dot blue-dot"></i> Active Sessions</span>
+                                <span><i class="legend-dot light-dot"></i> Computer Usage</span>
+                            </div>
+
+                            <svg viewBox="0 0 600 220" preserveAspectRatio="none" class="chart">
+                                <g class="grid-lines">
+                                    <line x1="35" y1="25" x2="590" y2="25"/>
+                                    <line x1="35" y1="65" x2="590" y2="65"/>
+                                    <line x1="35" y1="105" x2="590" y2="105"/>
+                                    <line x1="35" y1="145" x2="590" y2="145"/>
+                                    <line x1="35" y1="185" x2="590" y2="185"/>
+                                </g>
+                                <path d="M35 120 L125 85 L215 105 L305 50 L395 80 L485 65 L575 35 L575 185 L35 185 Z" fill="#2463eb" opacity=".10"/>
+                                <polyline points="35,120 125,85 215,105 305,50 395,80 485,65 575,35" fill="none" stroke="#2463eb" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+                                <polyline points="35,155 125,135 215,145 305,110 395,130 485,115 575,95" fill="none" stroke="#91b8fa" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+
+                            <div class="chart-days">
+                                <span>Mon</span><span>Tue</span><span>Wed</span><span>Thu</span><span>Fri</span><span>Sat</span><span>Sun</span>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div class="panel status-panel">
+                        <div class="panel-header">
+                            <div>
+                                <h3><i class="fas fa-desktop"></i> Computer Status</h3>
+                                <p>Current workstation availability</p>
+                            </div>
+                        </div>
+
+                        <div class="status-content">
+                            <div class="donut-chart">
+                                <div class="donut-inner">
+                                    <h2>60%</h2>
+                                    <span>Available</span>
+                                </div>
+                            </div>
+
+                            <div class="status-legend">
+                                <div>
+                                    <span class="status-name"><i class="status-dot online"></i> Available</span>
+                                    <strong>18</strong>
+                                </div>
+                                <div>
+                                    <span class="status-name"><i class="status-dot offline"></i> In Use</span>
+                                    <strong>12</strong>
+                                </div>
+                                <div>
+                                    <span class="status-name"><i class="status-dot maintenance-dot"></i> Maintenance</span>
+                                    <strong>0</strong>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+            <!-- ==========================================
+                 VIEW 2: LIVE SESSION LOGS VIEW (NEW!)
+                 ========================================== -->
+            <div id="view-Session Logs" class="dashboard-view hidden">
+                <div class="welcome-section">
+                    <div>
+                        <h1>Live Session Logs & Workstation Activity</h1>
+                        <p>Real-time monitoring of student computer usage, Time-In, and Time-Out records.</p>
+                    </div>
+                    <div class="live-indicator">
+                        <span class="pulse-dot"></span>
+                        <span>Live Sync Active</span>
+                    </div>
+                </div>
+
+                <!-- Controls: Search, Filter & Refresh -->
+                <section class="toolbar panel" style="margin-bottom: 18px; padding: 14px 18px;">
+                    <div class="search-box" style="flex: 1; min-width: 240px; position: relative;">
+                        <i class="fas fa-search" style="position: absolute; left: 12px; top: 50%; transform: translateY(-50%); color: var(--muted); font-size: 11px;"></i>
+                        <input type="text" id="searchInput" placeholder="Search by Student Name, ID, or PC No..." style="width: 100%; padding: 9px 11px 9px 32px; border: 1px solid var(--border); border-radius: 7px; font-size: 10px; outline: none;" />
+                    </div>
+
+                    <div style="display: flex; gap: 10px;">
+                        <select id="statusFilter" style="border: 1px solid var(--border); border-radius: 7px; padding: 9px 11px; background: #fff; font-size: 10px; color: #64748b; outline: none;">
+                            <option value="all">All Sessions</option>
+                            <option value="Active">Active (In-Use)</option>
+                            <option value="Completed">Completed (Timed-Out)</option>
+                        </select>
+
+                        <button id="refreshBtn" class="filter-btn" style="display: flex; align-items: center; gap: 6px;">
+                            <i class="fas fa-rotate"></i> Refresh Logs
+                        </button>
+                    </div>
+                </section>
+
+                <!-- Table Card Panel -->
+                <div class="panel table-panel">
+                    <div class="table-responsive">
+                        <table class="session-table" id="sessionTable">
+                            <thead>
+                                <tr>
+                                    <th>PC / Workstation</th>
+                                    <th>Student ID</th>
+                                    <th>Student Name</th>
+                                    <th>Course & Section</th>
+                                    <th>Time-In</th>
+                                    <th>Time-Out</th>
+                                    <th>Duration</th>
+                                    <th>Status</th>
+                                    <th>Action</th>
+                                </tr>
+                            </thead>
+                            <tbody id="sessionTableBody">
+                                <!-- Dynamic rows will be injected here via dash.js -->
+                            </tbody>
+                        </table>
+                    </div>
+
+                    <div id="tableStateMessage" class="state-message hidden">
+                        No session records found.
+                    </div>
+                </div>
+            </div>
+
+
+            <footer class="footer">
+                <p>Lab Monitoring System © 2026. All Rights Reserved.</p>
+                <p>Computer Laboratory Monitoring Dashboard</p>
+            </footer>
+
+        </section>
+
+    </main>
+
+</div>
+
+
+<div class="toast" id="toast" role="status"></div>
+
+<script src="dash.js"></script>
+
+</body>
+</html>

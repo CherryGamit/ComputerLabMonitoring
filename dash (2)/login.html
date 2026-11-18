@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title id="pageTitle">Login | Computer Laboratory System</title>
+
+    <link rel="stylesheet" href="login.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+    <main class="main-container">
+
+        <div class="login-wrapper">
+
+            <!-- LEFT SIDE: SYSTEM INFORMATION -->
+            <section class="left-panel">
+
+                <div class="logo-container">
+                    <div class="computer-logo">
+                        <svg viewBox="0 0 200 160" fill="none">
+                            <rect x="30" y="20" width="140" height="95"
+                                  rx="8" stroke="#092D68" stroke-width="9"/>
+
+                            <path d="M85 118 L80 138 H120 L115 118"
+                                  fill="#092D68"/>
+
+                            <path d="M60 142 H140"
+                                  stroke="#092D68" stroke-width="9"
+                                  stroke-linecap="round"/>
+
+                            <path d="M100 12 L145 34 V70
+                                     C145 98 123 119 100 130
+                                     C77 119 55 98 55 70
+                                     V34 Z"
+                                  fill="#1474D4"
+                                  stroke="#092D68"
+                                  stroke-width="5"/>
+
+                            <rect x="83" y="65" width="34" height="29"
+                                  rx="5" fill="white"/>
+
+                            <path d="M89 65 V55
+                                     C89 41 111 41 111 55 V65"
+                                  stroke="white" stroke-width="7"
+                                  fill="none" stroke-linecap="round"/>
+
+                            <circle cx="100" cy="77" r="4"
+                                    fill="#1474D4"/>
+                        </svg>
+                    </div>
+                </div>
+
+                <div class="system-information">
+
+                    <h1>
+                        A Web-Based Automated
+                        Computer Laboratory Logbook
+                        and Workstation Activity
+                        Monitoring System with Cybersecurity
+                    </h1>
+
+                    <div class="divider">
+                        <span></span>
+                        <i></i>
+                        <span></span>
+                    </div>
+
+                    <p class="tagline">
+                        Monitor <b>•</b> Manage <b>•</b> Secure
+                    </p>
+
+                </div>
+
+                <!-- COMPUTER LAB IMAGE -->
+                <div class="lab-image">
+                    <div class="computer computer-one">
+                        <div class="screen"></div>
+                        <div class="stand"></div>
+                    </div>
+
+                    <div class="computer computer-two">
+                        <div class="screen"></div>
+                        <div class="stand"></div>
+                    </div>
+
+                    <div class="computer computer-three">
+                        <div class="screen"></div>
+                        <div class="stand"></div>
+                    </div>
+
+                    <div class="computer computer-four">
+                        <div class="screen"></div>
+                        <div class="stand"></div>
+                    </div>
+
+                    <div class="desk"></div>
+                </div>
+
+            </section>
+
+
+            <!-- RIGHT SIDE: FORM CONTAINER (Dito nagpapalit ang Login, Register, at Forgot Password) -->
+            <section class="right-panel">
+
+                <div class="login-card">
+
+                    <div class="login-logo">
+                        <div class="small-logo">
+                            <svg viewBox="0 0 120 100" fill="none">
+                                <rect x="10" y="12" width="100" height="62"
+                                      rx="5" stroke="#092D68"
+                                      stroke-width="6"/>
+
+                                <path d="M48 75 L44 88 H76 L72 75"
+                                      fill="#092D68"/>
+
+                                <path d="M35 91 H85"
+                                      stroke="#092D68" stroke-width="5"
+                                      stroke-linecap="round"/>
+
+                                <path d="M60 5 L87 19 V43
+                                         C87 62 73 76 60 82
+                                         C47 76 33 62 33 43
+                                         V19 Z"
+                                      fill="#1680DD"
+                                      stroke="#0B4B94"
+                                      stroke-width="3"/>
+
+                                <rect x="50" y="39" width="20"
+                                      height="17" rx="3" fill="white"/>
+
+                                <path d="M54 39 V33
+                                         C54 25 66 25 66 33 V39"
+                                      stroke="white" stroke-width="4"
+                                      fill="none"/>
+
+                                <circle cx="60" cy="47" r="2.5"
+                                        fill="#1474D4"/>
+                            </svg>
+                        </div>
+                    </div>
+
+                    <!-- WELCOME / HEADER TEXT -->
+                    <div class="welcome-text" id="welcomeTextContainer">
+                        <h2 id="formTitle">Welcome Back!</h2>
+                        <p id="formSubtitle">Sign in to access the Laboratory System.</p>
+                    </div>
+
+
+                    <!-- SHARED ERROR/SUCCESS MESSAGE -->
+                    <div class="error-message" id="errorMessage">
+                        <span class="error-icon" id="errorIconTag">!</span>
+                        <span id="errorText">Invalid email or password. Please try again.</span>
+                    </div>
+
+
+                    <!-- ================= LOGIN FORM ================= -->
+                    <form id="loginForm">
+
+                        <div class="form-group">
+                            <label for="loginUsername">Email or Username</label>
+                            <div class="input-container">
+                                <span class="input-icon">
+                                    <svg viewBox="0 0 24 24"><path d="M12 12a4 4 0 1 0 0-8 4 4 0 0 0 0 8zm0 2c-4 0-8 2-8 5v2h16v-2c0-3-4-5-8-5z"/></svg>
+                                </span>
+                                <input type="text" id="loginUsername" placeholder="Enter your email or username" autocomplete="username">
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="loginPassword">Password</label>
+                            <div class="input-container">
+                                <span class="input-icon lock-icon">
+                                    <svg viewBox="0 0 24 24"><path d="M18 8h-1V6a5 5 0 0 0-10 0v2H6a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V10a2 2 0 0 0-2-2zM9 6a3 3 0 0 1 6 0v2H9V6zm4 9.7V18h-2v-2.3a2 2 0 1 1 2 0z"/></svg>
+                                </span>
+                                <input type="password" id="loginPassword" placeholder="Enter your password" autocomplete="current-password">
+                                <button type="button" class="toggle-password" id="toggleLoginPassword" aria-label="Show password">
+                                    <svg id="loginEyeIcon" viewBox="0 0 24 24">
+                                        <path d="M2 12s3.5-7 10-7 10 7 10 7-3.5 7-10 7S2 12 2 12z"/>
+                                        <circle cx="12" cy="12" r="3"/>
+                                    </svg>
+                                </button>
+                            </div>
+                            <!-- FORGOT PASSWORD LINK -->
+                            <div class="forgot-password-link">
+                                <a href="#" id="showForgotPassword">Forgot password?</a>
+                            </div>
+                        </div>
+
+                        <button type="submit" class="login-button">
+                            <span>LOG IN</span>
+                            <svg viewBox="0 0 24 24"><path d="M13 5l7 7-7 7M20 12H4" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                        </button>
+
+                    </form>
+
+
+                    <!-- ================= FORGOT PASSWORD FORM (Nakasara muna) ================= -->
+                    <form id="forgotPasswordForm" style="display: none;">
+
+                        <div class="form-group">
+                            <label for="forgotEmail">Email Address</label>
+                            <div class="input-container">
+                                <span class="input-icon">
+                                    <svg viewBox="0 0 24 24"><path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/></svg>
+                                </span>
+                                <input type="email" id="forgotEmail" placeholder="Enter your registered email">
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="newPassword">New Password</label>
+                            <div class="input-container">
+                                <span class="input-icon lock-icon">
+                                    <svg viewBox="0 0 24 24"><path d="M18 8h-1V6a5 5 0 0 0-10 0v2H6a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V10a2 2 0 0 0-2-2zM9 6a3 3 0 0 1 6 0v2H9V6zm4 9.7V18h-2v-2.3a2 2 0 1 1 2 0z"/></svg>
+                                </span>
+                                <input type="password" id="newPassword" placeholder="Enter new password">
+                            </div>
+                        </div>
+
+                        <button type="submit" class="login-button">
+                            <span>RESET PASSWORD</span>
+                            <svg viewBox="0 0 24 24"><path d="M13 5l7 7-7 7M20 12H4" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                        </button>
+
+                        <div class="signup-container" style="margin-top: 15px;">
+                            <p><a href="#" id="backToLoginFromForgot">Back to Login</a></p>
+                        </div>
+
+                    </form>
+
+
+                    <!-- ================= REGISTER FORM (Nakasara muna) ================= -->
+                    <form id="signupForm" style="display: none;">
+
+                        <div class="form-group">
+                            <label for="regFullname">Full Name</label>
+                            <div class="input-container">
+                                <span class="input-icon">
+                                    <svg viewBox="0 0 24 24"><path d="M12 12a4 4 0 1 0 0-8 4 4 0 0 0 0 8zm0 2c-4 0-8 2-8 5v2h16v-2c0-3-4-5-8-5z"/></svg>
+                                </span>
+                                <input type="text" id="regFullname" placeholder="Enter your full name">
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="regUsername">Username</label>
+                            <div class="input-container">
+                                <span class="input-icon">
+                                    <svg viewBox="0 0 24 24"><path d="M12 12a4 4 0 1 0 0-8 4 4 0 0 0 0 8zm0 2c-4 0-8 2-8 5v2h16v-2c0-3-4-5-8-5z"/></svg>
+                                </span>
+                                <input type="text" id="regUsername" placeholder="Choose a username">
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="regEmail">Email Address</label>
+                            <div class="input-container">
+                                <span class="input-icon">
+                                    <svg viewBox="0 0 24 24"><path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/></svg>
+                                </span>
+                                <input type="email" id="regEmail" placeholder="Enter your email address">
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="regPassword">Password</label>
+                            <div class="input-container">
+                                <span class="input-icon lock-icon">
+                                    <svg viewBox="0 0 24 24"><path d="M18 8h-1V6a5 5 0 0 0-10 0v2H6a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V10a2 2 0 0 0-2-2zM9 6a3 3 0 0 1 6 0v2H9V6zm4 9.7V18h-2v-2.3a2 2 0 1 1 2 0z"/></svg>
+                                </span>
+                                <input type="password" id="regPassword" placeholder="Create a password">
+                                <button type="button" class="toggle-password" id="toggleRegPassword" aria-label="Show password">
+                                    <svg id="regEyeIcon" viewBox="0 0 24 24">
+                                        <path d="M2 12s3.5-7 10-7 10 7 10 7-3.5 7-10 7S2 12 2 12z"/>
+                                        <circle cx="12" cy="12" r="3"/>
+                                    </svg>
+                                </button>
+                            </div>
+                        </div>
+
+                        <button type="submit" class="login-button">
+                            <span>REGISTER</span>
+                            <svg viewBox="0 0 24 24"><path d="M13 5l7 7-7 7M20 12H4" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                        </button>
+
+                    </form>
+
+
+                    <!-- SWITCH LINK (Login <-> Register) -->
+                    <div class="signup-container" id="switchContainer">
+                        <p id="switchText">Don't have an account? <a href="#" id="showRegister">Register here</a></p>
+                    </div>
+
+
+                    <div class="authorized-text">
+                        <span></span>
+                        <p>Authorized Personnel Only</p>
+                        <span></span>
+                    </div>
+
+                    <p class="security-note">
+                        Secure Laboratory Management System
+                    </p>
+
+                </div>
+
+            </section>
+
+        </div>
+
+    </main>
+
+    <script src="login.js"></script>
+
+</body>
+</html>
